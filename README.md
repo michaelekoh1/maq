@@ -15,3 +15,9 @@ User Goals:
 ## Design
 ### Initial Wireframes
 Based on the above User Stories, the following wireframes were mocked up.
+
+
+
+### Colour Scheme
+
+The site's colour scheme was built around the hero image.
