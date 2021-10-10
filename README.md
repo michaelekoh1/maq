@@ -22,6 +22,7 @@ Based on the above User Stories, the following wireframes were mocked up.
 
 The site's colour scheme was built around the hero image.
 
-![Music Artists Quiz Color Palette](screenshots/Music Artists Quiz Color Palette.png)
+![Music Artists Quiz Color Palette](screenshots/colour-palette.png)
+
 
 
