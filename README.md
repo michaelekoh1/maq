@@ -1,8 +1,10 @@
 # Music Artists Quiz
 
+<div align="center">
+  <img alt="Quiz logo" src="https://github.com/michaelekoh1/maq/blob/main/assets/images/logo.png" width="400px" />
+
 [Music Artists Quiz](https://michaelekoh1.github.io/maq/index.html)
 
-<!-- TABLE OF CONTENTS -->
 
 ## Project Goals
 Music Artists Quiz is a game or brain teaser to test ones knowledge.  It is free and for entertainment purpose.
