@@ -60,7 +60,7 @@ In this section, we will see different parts of the site with a bit of descripti
 
 
 ## Result Page
-![Music Artists Quiz Landing Page](screenshots/quizpage.png)
+![Music Artists Quiz Landing Page](screenshots/resultpage.png)
 - At the end the user sees their scores and see the top 5 scores on the right side of the page.
 
 ### Fonts
