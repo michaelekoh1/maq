@@ -34,8 +34,8 @@ The site's colour scheme was built around the hero image.
 ### Fonts
 
 All fonts for the site are from [Google Fonts](https://fonts.google.com/).
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) is used for main headings and titles.
-- [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=Steve+Matteson#standard-styles) is used for sub-headings and for the body text.
+- [Quicksand](https://fonts.google.com/specimen/Quicksand) is used for main headings and titles.
+- [Open Sans](https://fonts.googleapis.com/css2?family=Open+Sans&display=swap) is used for sub-headings and for the body text.
 
 ## Technologies Used
 
