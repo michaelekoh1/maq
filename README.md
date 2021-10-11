@@ -1,7 +1,7 @@
 # [Music Artists Quiz](https://michaelekoh1.github.io/maq/index.html)
 
 <div align="center">
-  <img alt="Quiz logo" src="https://github.com/michaelekoh1/maq/blob/main/assets/images/logo.png" width="400px" />
+  <img alt="Quiz logo" src="https://github.com/michaelekoh1/maq/blob/main/assets/images/logo.png" width="300px" />
 </div>
 
 
