@@ -4,6 +4,16 @@
   <img alt="Quiz logo" src="https://github.com/michaelekoh1/maq/blob/main/assets/images/logo.png" width="300px" />
 </div>
 
+## Table of Contents
+
+- [Project Goals](#project-goals)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
 
 ## Project Goals
 Music Artists Quiz is a game or brain teaser to test ones knowledge.  It is free and for entertainment purpose.
