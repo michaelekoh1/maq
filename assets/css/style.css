@@ -15,10 +15,16 @@ body{
     /* border: 2px solid orange; */
 }
 
-h1{
+h1 a{
     color: #ff6700; /* Sends heading 1  color to orange*/
     display:inline;
     text-align:center;
+    font-size: 60px;
+}
+
+h1 a:hover{
+    color:#aaaaaa;
+    text-decoration: none;
 }
 
 /* Styles for image tags. Sets the width and border-radius*/
@@ -107,6 +113,7 @@ h1,p{
 #result{
     color: #aaaaaa;
     font-size: 30px;
+    text-align:center;
 }
 
 /*Styles for the highscore table*/

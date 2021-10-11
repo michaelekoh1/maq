@@ -215,11 +215,11 @@ function quizFinish(){
     optionDiv.append(message);
 }
 
-// This function saves the user score in the localstorage
+// This function saves the user score in the sessionstorage
 function save(name, points){
     let entry = {"name":name, "points":points};
     score.push(entry);
-    localStorage.setItem("score", JSON.stringify(score));
+    sessionStorage.setItem("score", JSON.stringify(score));
 }
 
 
@@ -227,7 +227,7 @@ function save(name, points){
 function scoreBoardPage(){
     const highscoreDiv = document.getElementById("highscore-div");
     highscoreDiv.innerHTML = "";
-    let scores = JSON.parse(localStorage.getItem("score"));
+    let scores = JSON.parse(sessionStorage.getItem("score"));
     console.log(score);
     let h = document.createElement("p");
     h.setAttribute("id","top-5")
@@ -283,5 +283,3 @@ function compare( a, b ) {
     }
     return 0;
   }
-
-
