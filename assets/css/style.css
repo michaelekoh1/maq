@@ -5,7 +5,7 @@ body{
     padding: 2%;
     font-family: 'Quicksand', sans-serif;
     color: #ffffff;
-     background-image: url("images/login-bg.jpg");  /*Sets the background image of the page */
+     background-image: url("../images/login-bg.jpg");  /*Sets the background image of the page */
 }
 
 #logo{
@@ -23,8 +23,9 @@ h1{
 
 /* Styles for image tags. Sets the width and border-radius*/
 img{
-    width: 100%; 
+    width: 100%;
     border-radius:20px;
+    height: 100%;
 }
 
 /* Input type text styles. Specifically, this will apply on name field*/
@@ -33,7 +34,7 @@ input[type="text"]{
     padding: 5px;
     height: 30px;
     border-radius:5px;
-    outline:none; 
+    outline:none;
     color: #000000;
 
 }
@@ -66,7 +67,7 @@ input[type="text"]{
     border-radius:20px;
     background-color:rgba(197, 196, 196, 0.616);
     visibility: hidden;
-    
+
 }
 
 #pic-div{
@@ -108,10 +109,10 @@ h1,p{
     font-size: 30px;
 }
 
-/*Styles for the high score table*/
+/*Styles for the highscore table*/
 tr{
     width: 100%;
-    
+
 }
 
 th, td{
