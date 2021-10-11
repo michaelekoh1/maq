@@ -2,7 +2,7 @@
 
 <div align="center">
   <img alt="Quiz logo" src="https://github.com/michaelekoh1/maq/blob/main/assets/images/logo.png" width="400px" />
-
+</div>
 
 
 ## Project Goals
