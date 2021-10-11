@@ -1,4 +1,7 @@
 # Music Artists Quiz
+
+[Music Artists Quiz](https://michaelekoh1.github.io/maq/index.html)
+
 ## Project Goals
 Music Artists Quiz is a game or brain teaser to test ones knowledge.  It is free and for entertainment purpose.
 
