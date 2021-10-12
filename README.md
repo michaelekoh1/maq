@@ -74,6 +74,7 @@ All fonts for the site are from [Google Fonts](https://fonts.google.com/).
 
 - HTML5 - the pages of the website were designed using HTML.
 - CSS3 -  the pages of the website were styled using CSS.
+- JavaScript - javascript was used in the website to add functions.
 - [Gitpod](https://www.gitpod.io/) - the website was developed using Gitpod as the development environment.
 - [Font Awesome](https://fontawesome.com/)- Font Awesome icons were used for the social media links on the contact page and in the services page.
 - [Google Fonts](https://fonts.google.com/) Google Fonts were used throughout the project.
