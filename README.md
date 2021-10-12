@@ -85,23 +85,23 @@ All fonts for the site are from [Google Fonts](https://fonts.google.com/).
 
 ## Validator Testing
 
-# HTML
+### HTML
 
 - The HTML for the site's page was passed through the W3C Markup Validation Service, and no errors or warnings were found.
 
-# CSS
+### CSS
 
 - The site's CSS was passed through the W3C CSS Validation Service, and no errors were found.
 
-# JavaScript
+### JavaScript
 
 - The site's JavaScript was passed through the esprima Validation Service, and no errors were found.
 
-## Automated Testing
+### Automated Testing
 
 - The page of the site was evaluated using Lighthouse to assess them on four metrics; Performance, Accessibility, Best Practices & Search Engine Optimization (SEO).
 
-# Deployment
+## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 
@@ -122,6 +122,6 @@ The live link can be found here: (https://michaelekoh1.github.io/maq/index.html)
 - Various instucttions like understanding the basics of a good website and simplicity of a webpage were taken from You Tube.
 
 
-# Acknowledgement
+## Acknowledgement
 
 I would like to take this opportunity to thank my mentor Jack Wachira for his great guidance in the accomplishment of this project and the whole learning experience.
