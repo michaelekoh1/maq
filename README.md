@@ -80,21 +80,24 @@ All fonts for the site are from [Google Fonts](https://fonts.google.com/).
 - Favicon Generator was used to create and size the favicon for the site, using the logo created above.
 - Photoshop(Adobe)- The logo was designed using Adobe Photoshop software.
 
-# Testing
 
-## Validator Testing
+### Validator Testing
 
-### HTML
+## HTML
 
-- The HTML for the site's four pages was passed through the W3C Markup Validation Service, and no errors or warnings were found.
+- The HTML for the site's page was passed through the W3C Markup Validation Service, and no errors or warnings were found.
 
-### CSS
+## CSS
 
 - The site's CSS was passed through the W3C CSS Validation Service, and no errors were found.
 
+## JavaScript
+
+- The site's JavaScript was passed through the esprima Validation Service, and no errors were found.
+
 ### Automated Testing
 
-- Each page of the site was evaluated using Lighthouse to assess them on four metrics; Performance, Accessibility, Best Practices & Search Engine Optimization (SEO).
+- The page of the site was evaluated using Lighthouse to assess them on four metrics; Performance, Accessibility, Best Practices & Search Engine Optimization (SEO).
 
 # Deployment
 
@@ -106,13 +109,13 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here: (https://michaelekoh1.github.io/ekoh-consulting/index.html)
+The live link can be found here: (https://michaelekoh1.github.io/maq/index.html)
 
 # Credits
 
 ## Content
 
-- Hero image was taken from pixabay website which was an Open Source site for personal use.
+- Hero image and login image were taken from pixabay website which was an Open Source site for personal use.
 
 - Various instucttions like understanding the basics of a good website and simplicity of a webpage were taken from You Tube.
 
