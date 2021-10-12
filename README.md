@@ -7,13 +7,14 @@
 ## Table of Contents
 
 - [Project Goals](#project-goals)
+- [Colour Scheme](#colour-scheme)
 - [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+- [Fonts](#fonts)
+- [Technologies Used](#technologies-used)
+- [Validator Testing](#validator-testing)
+- [Automated Testing](#automated-testing)
+- [Deployment](#deployment)
+- [Acknowledgement](#acknowledgement)
 
 ## Project Goals
 Music Artists Quiz is a game or brain teaser to test ones knowledge.  It is free and for entertainment purpose.
@@ -81,21 +82,21 @@ All fonts for the site are from [Google Fonts](https://fonts.google.com/).
 - Photoshop(Adobe)- The logo was designed using Adobe Photoshop software.
 
 
-### Validator Testing
+## Validator Testing
 
-## HTML
+# HTML
 
 - The HTML for the site's page was passed through the W3C Markup Validation Service, and no errors or warnings were found.
 
-## CSS
+# CSS
 
 - The site's CSS was passed through the W3C CSS Validation Service, and no errors were found.
 
-## JavaScript
+# JavaScript
 
 - The site's JavaScript was passed through the esprima Validation Service, and no errors were found.
 
-### Automated Testing
+## Automated Testing
 
 - The page of the site was evaluated using Lighthouse to assess them on four metrics; Performance, Accessibility, Best Practices & Search Engine Optimization (SEO).
 
