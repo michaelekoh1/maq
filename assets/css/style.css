@@ -61,7 +61,7 @@ input[type="text"]{
 
 /* Styles for start button*/
 #start, #play-again{
-    color: #ffffff;
+    color: #000000;
     background-color: #ff6700;
     padding: 3px 20px; /* Sets the padding top-bottom 3px and left-right 50px*/
 
@@ -100,7 +100,7 @@ h1,p{
 /*Changes in style when user hovers over the start button*/
 #start:hover{
     background-color: white;
-    color: #ff6700;
+    color: #000000;
     border:2px solid #ff6700;
 }
 
