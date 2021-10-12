@@ -80,8 +80,7 @@ All fonts for the site are from [Google Fonts](https://fonts.google.com/).
 - [jQuery](https://jquery.com/) - jQuery was used to simplify and condense JavaScript, particularly for interacting with, and writing to, the DOM. 
 - [Font Awesome](https://fontawesome.com/)- Font Awesome icons were used for the social media links on the contact page and in the services page.
 - [Google Fonts](https://fonts.google.com/) Google Fonts were used throughout the project.
-- [Favicon Generator](https://www.favicongenerator.com/)
-- Favicon Generator was used to create and size the favicon for the site, using the logo created above.
+- [Favicon Generator](https://www.favicongenerator.com/) Favicon Generator was used to create and size the favicon for the site, using the logo created above.
 - Photoshop(Adobe)- The logo was designed using Adobe Photoshop software.
 
 
